@@ -43,7 +43,7 @@ $ git clone https://github.com/educooper/genius-game
 $ cd genius-game
 
 ```
-
+![plot](./img/genius-front.png)
 Thanks very munch [Digital Innovation One](https://web.digitalinnovation.one/) for this great opportunity!
 
 <a href="#top">Back to the Top</a>
